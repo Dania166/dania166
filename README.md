@@ -1,6 +1,6 @@
 ### Hello, I'm Dania Alsahfy! 👋
 
-- 🔭 I’m a fresh graduate in computer science.
+- 🔭 I recently graduated in computer science.
 - 🌱 I’m currently learning Django, RESTful API, Power BI, and R.
 - 👯 I’m looking to collaborate with other developers on data analysis or UX/UI.
 - 💬 Ask me about Python.
